@@ -1,0 +1,8 @@
+Rent,3000
+Rent,300003
+Business,35000
+Salary,25000
+Business,2500
+Rent,3000
+Salary,3000
+Salary,5000

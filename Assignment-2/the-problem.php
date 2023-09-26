@@ -40,9 +40,6 @@
         return $finalData;
     }
 
-    $choice = 0;
-    $income = 0;
-    $expenses = 0;
     while($choice != 7){
         echo "What do you want to do?\n1. Add income \n2. Add expense \n3. View income \n4. View expense \n5. View total \n6. View Categories\n\n";
         echo "Enter a value: ";
