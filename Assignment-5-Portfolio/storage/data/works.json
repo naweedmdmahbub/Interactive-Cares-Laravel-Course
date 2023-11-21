@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "company": "ABC Corporation",
+      "designation": "Senior Software Engineer",
+      "experience": "5 years",
+      "role": "Lead developer on project XYZ",
+      "period": "January 2018 - December 2022"
+    },
+    {
+      "id": 2,
+      "company": "XYZ Inc.",
+      "designation": "Software Engineer",
+      "experience": "2 years",
+      "role": "Collaborated on team ABC for product development",
+      "period": "June 2015 - December 2017"
+    },
+    {
+      "id": 3,
+      "company": "123 Tech Solutions",
+      "designation": "Intern",
+      "experience": "6 months",
+      "role": "Assisted in testing and debugging",
+      "period": "January 2015 - June 2015"
+    }
+  ]
+  

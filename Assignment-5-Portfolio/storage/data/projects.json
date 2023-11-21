@@ -1,0 +1,27 @@
+[
+  {
+      "id": 1,
+      "title": "Weather App",
+      "description": "A web application that displays real-time weather information based on user location or input."
+  },
+  {
+      "id": 2,
+      "title": "Task Manager",
+      "description": "An application for managing tasks, allowing users to create, update, and delete tasks with due dates and priorities."
+  },
+  {
+      "id": 3,
+      "title": "E-commerce Website",
+      "description": "A platform for online buying and selling with features such as product catalog, user authentication, and shopping cart functionality."
+  },
+  {
+      "id": 4,
+      "title": "Fitness Tracker",
+      "description": "An app to track fitness activities, allowing users to log workouts, set fitness goals, and monitor progress over time."
+  },
+  {
+      "id": 5,
+      "title": "Recipe App",
+      "description": "An application that provides a collection of recipes, allowing users to search, save favorites, and create shopping lists based on chosen recipes."
+  }
+]
